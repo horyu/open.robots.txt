@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Show robots.txt",
+  "version": "1.0",
+  "description": "Open robots.txt by pushing button.",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": {
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
+    }
+  },
+  "icons": {
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
