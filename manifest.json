@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Show robots.txt",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Open robots.txt by pushing button.",
   "background": {
     "scripts": ["background.js"]
