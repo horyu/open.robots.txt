@@ -1,4 +1,4 @@
-# show.robots.txt
+# show-robots-txt
 
 自分のために作成したクローム拡張です。
 
@@ -13,7 +13,7 @@ URLバー横のボタンをクリックすると、現在開いてるタブの�
 
 ## インストール方法
 
-1. `git clone https://github.com/horyu/show.robots.txt.git`
+1. `git clone https://github.com/horyu/show-robots-txt.git`
 2. クロームで 右上のその他アイコン `⋮` > __その他のツール__ > __拡張機能__ の順にクリックし、拡張機能(`chrome://extensions/`)を開く
 3. 右上の __デベロッパー モード__ をクリックし、デベロッパーモードを有効にする
 4. 画面内の __パッケージ化されていない拡張機能を読み込む__ をクリックし、1でcloneしたフォルダを選択する
